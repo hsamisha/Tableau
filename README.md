@@ -1,5 +1,5 @@
 Google Play Store Analytics — Tableau
-📌 Project Overview
+
 
 This project focuses on analyzing Google Play Store app data using Tableau to understand app performance, user engagement, ratings, installations, pricing, app size, content ratings, and Android version compatibility.
 
